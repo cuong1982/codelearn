@@ -1,0 +1,8 @@
+Factory Function
+Constructor Function
+2 hàm này giúp chúng ta có thế tạo ra các object giống nhau và các object này có thể chứa các data riêng và 
+các vùng hoạt động riêng và có thẻ coi là statefull function. 
+các các có thể tạo object: literal object: literal: let x {}
+
+cách viết tạo ra hàng loạt object, constructor function có thể tạo các object con, có data riêng biệt khi
+truyền vào tham số. 
